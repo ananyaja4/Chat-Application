@@ -30,6 +30,8 @@ A real-time group chat application that allows users to create and join chat roo
 $ git clone https://github.com/MadPhoenixOp/ChatApp.git
 ```
 
+3. Get the project id from chat engine website and add it in the code of App.js and LoginForm.jsx
+   
 2. Start the server:
 
 ```bash
