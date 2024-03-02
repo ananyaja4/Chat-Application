@@ -13,7 +13,7 @@ A real-time group chat application that allows users to create and join chat roo
 ## Technologies Used
 
 - Frontend: HTML, CSS, JavaScript, React.js
-- Backend: Node.js
+- Backend: Node.js, Next.js
 - API: Chat Engine for real-time communication
 
 ## Getting Started
