@@ -27,7 +27,7 @@ A real-time group chat application that allows users to create and join chat roo
 1. Clone the repository:
 
 ```bash
-$ git clone https://github.com/MadPhoenixOp/ChatApp.git
+$ git clone https://github.com/ananyaja4/Chat-Application.git
 ```
 
 3. Get the project id from chat engine website and add it in the code of App.js and LoginForm.jsx
